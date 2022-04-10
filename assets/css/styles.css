@@ -109,7 +109,7 @@ div > header > h1:first-of-type {
 
 div > header > p {
     color: #e7bc0e;
-    font-size: 2.6rem;
+    font-size: 5rem;
     font-family: 'Tangerine', cursive;
     letter-spacing: -2.9px;
     font-style: italic;
@@ -118,16 +118,16 @@ div > header > p {
 }
 
 div > header > p::after {
-    content: "V";
+    content: "v";
     padding-left: 20px;
-    font-size: 3rem;
+    font-size: 8rem;
 }
 /* ========================================
             MainPage/Section 1
 =========================================== */
 
 div > div:first-of-type {
-    margin: 50vh 45vw 0 15vw;
+    margin: 50vh 40vw 0 20vw;
 }
 
 div > div:first-of-type p {
